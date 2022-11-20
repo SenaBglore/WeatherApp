@@ -5,7 +5,7 @@
   --white: #fff;
   --grey-1: #ededed;
   --shadow-dark: rgba(0, 0, 0, 0.3);
-  --shadow-light: rgba(255, 255, 255, 0, 1);
+  --shadow-light: rgba(230, 255, 255, 0, 1);
 }
 
 * {
@@ -107,7 +107,7 @@ body {
 }
 
 .info-block-label img {
-  width: 3em;
+  width: 5em;
 }
 
 .info-block-label span {
