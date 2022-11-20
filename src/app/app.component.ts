@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  public url = '../assets/images/maxtemp1.jpg';
+  public url = '../assets/images/mintemp.png';
 }
