@@ -135,3 +135,10 @@ body {
   align-items: center;
   color: var(--white);
 }
+
+.loading {
+  align-items: center;
+  text-align: center;
+  color: var(--white);
+  padding-top: 55%;
+}
